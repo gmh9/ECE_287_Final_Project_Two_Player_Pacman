@@ -1,3 +1,4 @@
+//This module came from Lucy and Michaela's Code
 /////////////////////////////////////////////////////////////////// update clk to lower snake speed
 module updateCLK(clk, update);
 input clk;

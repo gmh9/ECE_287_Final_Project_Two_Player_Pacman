@@ -1,3 +1,4 @@
+//This module came from Lucy and Michaela
 /////////////////////////////////////////////////////////////////// VGA_generator to display using VGA
 module VGA_generator(VGA_clk, VGA_Hsync, VGA_Vsync, DisplayArea, xPixel, yPixel, blank_n);
 input VGA_clk;

@@ -1,3 +1,4 @@
+//This module came from Lucy and Michaela
 ////////////////////////////////////////////////////////////////// key inputs to control Pacman
 module kbInput(KB_clk, key, direction, reset);
 input KB_clk;

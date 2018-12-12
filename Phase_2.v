@@ -1,3 +1,4 @@
+//The "skeleton" for this module was taken from Lucy and Michaela's code
 module Phase_2(clk, rst, WaitScreenButton, StartGameButton, key, switch, DAC_clk, VGA_R, VGA_G, VGA_B, VGA_Hsync, 
 					VGA_Vsync, blank_n, KB_clk, data, HEX1, HEX2, HEX3, HEX4);
 					
