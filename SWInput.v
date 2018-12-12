@@ -1,3 +1,4 @@
+//Based off module kbInput
 /////////////////////////////////////////////////////////////// switch inputs to control Ghost
 module SWInput(SW_clk, switch, GhostDirection, reset);
 input SW_clk;
